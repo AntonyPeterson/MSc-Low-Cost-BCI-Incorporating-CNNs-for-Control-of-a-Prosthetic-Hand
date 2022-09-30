@@ -76,7 +76,7 @@ These are run in Jupyter Notebook.
 The notebooks were run in the same directory as the datasets and were used to process and filter the EEG data and train and tune CNNs to classify MI or EMG tasks. The notebooks provided sometimes only demonstrate a single example of a classification scenario that was tested e.g. subject 9
 for BCI Comp IV data or left and right hand MI classification for OpenBCI data. They can be simply modified as indicated to test a different classification scenario e.g. different subject or
 combination of MI/EMG tasks.
-The best default and tuned models obtained are provided in the subfolder [Best Models](CNN%20Training%20and%20Tuning/Best%20Models).
+The best default and tuned models obtained in the study are provided in the subfolder [Best Models](CNN%20Training%20and%20Tuning/Best%20Models).
 
 ## Band Power Analysis
 
