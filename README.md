@@ -78,7 +78,7 @@ for BCI Comp IV data or left and right hand MI classification for OpenBCI data. 
 combination of MI/EMG tasks.
 The best default and tuned models obtained are provided in the subfolder [Best Models](CNN%20Training%20and%20Tuning/Best%20Models).
 
-## Band power analysis
+## Band Power Analysis
 
 The band powers for the electrodes closest to the motor cortex were analysed for the OpenBCI MI data using [Band Power Analysis of OpenBCI MI data.ipynb](Band%20Power%20Analysis%20of%20OpenBCI%20MI%20data.ipynb) which can be run in Jupyter Notebook.
 
