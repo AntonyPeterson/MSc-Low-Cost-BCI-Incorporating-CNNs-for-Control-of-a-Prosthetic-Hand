@@ -64,7 +64,7 @@ The dataset consists of 24 5-second trials of each class per day gathered over e
 The first 6 days were used as the training set ([05to20-08 Active 8chan FPZ Bias](05to20-08%20Active%208chan%20FPZ%20Bias))
 and the last 2 days as the validation set ([23&24-08 Active 8chan FPZ Bias](23%2624-08%20Active%208chan%20FPZ%20Bias)). 
 The datasets comprise of raw 5-second-long EEG data.
-The Close Eyes data was not used in the study.
+The Close Eyes data was not used in the study. Data for an idle "Nothing" class gathered over the last 4 days is included but was not used in the study.
 
 [BCI Competition IV Dataset 2a](BCI%20Competition%20IV%20Dataset%202a) [1] is a popular public dataset that contains 4 class motor imagery data from 9 subjects and was used to validate the CNN training and tuning method.
 The folder contains the raw .mat training and validation data files for each subject.
