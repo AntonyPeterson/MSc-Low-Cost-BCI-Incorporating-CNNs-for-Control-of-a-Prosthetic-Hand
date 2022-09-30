@@ -3,7 +3,7 @@ All data and code used for MSc dissertation titled "Low-cost Brain-Computer Inte
 
 The study investigated using CNNs with minimal pre-processing to classify multiple MI and EMG tasks and enable live control of a 3D printed prosthetic hand to perform a variety of typical hand gestures.
 
-All data and code used in this study is included in this repository and the instructions for it's use are detailed below:
+All data and code used in this study is included in this repository and the instructions for it's use are detailed below. For ease of use, it is recommended that all code, data and results are saved in the same directory.
 
 ## Requirements
 All code was developed in python 3.8.12 and the following libraries are required to be installed:
@@ -95,7 +95,6 @@ performed are included in [5class tuned rhtng 8chan fpz bias hand control sequen
 The [Live Prediction and Response Time Analysis.ipynb](Prosthetic%20Hand%20Control/Live%20Prediction%20and%20Response%20Time%20Analysis.ipynb) notebook contains code used to assess online classifcation accuracy during the live control trials and to analyse the prediction probabilities 
 of the live predictions to assess whether incorrect predictions were made with low confidence. The system response time was also evaluated for the sequence trials. 
 
-For ease of use, it is recommended that all code, data and results are saved in the same directory.
 
 ## References:
 
