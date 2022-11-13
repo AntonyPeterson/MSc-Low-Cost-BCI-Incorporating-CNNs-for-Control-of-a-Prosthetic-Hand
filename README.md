@@ -1,5 +1,5 @@
 # Low-Cost-BCI-Incorporating-CNNs-for-Control-of-a-Prosthetic-Hand
-All data and code used for MSc dissertation titled "Low-cost Brain-Computer Interface Incorporating Convolutional Neural Netwokrs for Control of a Prosthetic Hand" by Antony Wade Peterson.
+All data and code used for MSc dissertation titled "Low-cost Brain-Computer Interface Incorporating Convolutional Neural Networks for Control of a Prosthetic Hand" by Antony Wade Peterson.
 
 The study investigated using CNNs with minimal pre-processing to classify multiple MI and EMG tasks and enable live control of a 3D printed prosthetic hand to perform a variety of typical hand gestures.
 
